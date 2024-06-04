@@ -26,6 +26,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Piotr Greń = Main Developer - https://github.com/PiotrGren
 
+# Statystyczna Analiza Danych - Średni Wzrost
+
 #### Polski
 
 ## Opis projektu
